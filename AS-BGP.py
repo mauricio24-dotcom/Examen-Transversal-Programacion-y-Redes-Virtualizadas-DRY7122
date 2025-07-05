@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 # Validador de AS BGP 16-bit y 32-bit usando if/elif/else
 
 asn = int(input("Ingrese número de AS: "))
